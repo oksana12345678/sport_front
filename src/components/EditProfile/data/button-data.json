@@ -1,0 +1,11 @@
+[
+  { "name": "ВІДГУКИ", "icon": "MASSAGE_TYPING", "route": "edit/reviews" },
+  { "name": "СТАТИСТИКА", "icon": "STATISTICS", "route": "edit/statistic" },
+  { "name": "ОНЛАЙН ЗАПИС", "icon": "SCHEDULE", "route": "edit/online-booking" },
+
+  { "name": "РОЗКЛАД РОБОТИ", "icon": "CALENDAR", "route": "edit/schedule" },
+  { "name": "ПОСЛУГИ", "icon": "SERVICES", "route": "edit/servers" },
+
+  { "name": "ЗАГАЛЬНЕ", "icon": "ACCOUNT", "route": "edit/general" },
+  { "name": "ЗМІНИТИ ПАРОЛЬ", "icon": "ID", "route": "change-password" }
+]
